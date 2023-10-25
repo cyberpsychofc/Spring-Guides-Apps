@@ -21,7 +21,7 @@ target/
 .cmd
 .md
 .png
-
+/upload-dir
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
