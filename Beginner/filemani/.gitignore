@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+upload-dir/
 
 ### STS ###
 .apt_generated
@@ -21,7 +22,6 @@ target/
 .cmd
 .md
 .png
-/upload-dir
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
